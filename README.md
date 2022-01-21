@@ -112,5 +112,6 @@ Tampilan hasil query count dan data master tabel penyewa
 
 Mebuat menu home
 Tampilan menu home
+![HOME](https://user-images.githubusercontent.com/45530085/150474805-18ea804c-6ef3-414a-bae7-577b04f24282.jpg)
 
 
